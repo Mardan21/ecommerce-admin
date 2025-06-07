@@ -18,7 +18,7 @@ This is the administrative dashboard for managing an e-commerce store. It enable
 - **Payments**: Stripe API
 - **Optional**: Zustand (for UI state), Tailwind CSS (if used)
 
-## 🔁 Integration with `ecommerce-store`
+## 🔁 Integration with [`ecommerce-store`](https://github.com/Mardan21/ecommerce-store) — Customer-facing online store with cart and checkout
 
 - Shares the same PlanetScale database with `ecommerce-store`.
 - Products created or edited here are reflected in the storefront.
